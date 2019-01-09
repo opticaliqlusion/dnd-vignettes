@@ -19,12 +19,13 @@ A rough outline of the vignettes is as follows (browse the source for a more det
 * Melee
 * Monsters
 * Ranged
-#### Chapter 2 : Descriptions
-* Dungeons
-* Towns
-#### Chapter 3 : Introductions
+#### Chapter 2 : Introductions
 * Heroes
 * Villians
+#### Chapter 3 : Descriptions
+* Dungeons (Crypts, 
+* Towns
+
 
 ### Building
 
