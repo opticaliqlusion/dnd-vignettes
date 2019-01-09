@@ -23,8 +23,8 @@ A rough outline of the vignettes is as follows (browse the source for a more det
 * Heroes
 * Villians
 #### Chapter 3 : Descriptions
-* Dungeons (Crypts, 
-* Towns
+* Dungeons (Crypts, Arenas, Towers)
+* Towns (Taverns, Temples, Barracks)
 
 
 ### Building
