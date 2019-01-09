@@ -8,7 +8,7 @@ This project looks to compile creative one or two sentence vignettes to bring th
 
 ### Layout
 
-[[https://github.com/opticaliqlusion/dnd-vignettes/blob/master/blob/readme-embed-1.png|alt=preview]]
+![Preview](blob/readme-embed-1.png)
 
 The project is written in Latex, and accepts all pull requests. Add new chapters, sections, subsections, and individual vignettes at your pleasure. Be sure to add whatever alias you want credited for your work in your commit message (use "Anonymous" if you do not want to be credited in the document).
 
