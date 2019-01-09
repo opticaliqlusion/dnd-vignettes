@@ -26,3 +26,10 @@ A rough outline of the vignettes is as follows (browse the source for a more det
 * Heroes
 * Villians
 
+### Building
+
+The only tested method of building this project is via `pdflatex` on Linux (Ubuntu).
+
+```
+pdflatex vignettes.tex
+```
