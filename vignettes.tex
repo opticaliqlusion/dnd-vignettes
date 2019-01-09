@@ -1,0 +1,28 @@
+% Changing book to article will make the footers match on each page,
+% rather than alternate every other.
+%
+% Note that the article class does not have chapters.
+\documentclass[letterpaper,10pt,twoside,twocolumn,openany]{dndbook}
+
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{hang}
+\usepackage{lipsum}
+\usepackage{listings}
+
+\lstset{%
+  basicstyle=\ttfamily,
+  language=[LaTeX]{TeX},
+}
+
+% Start document
+\begin{document}
+
+% Your content goes here
+
+\input{subdocs/executions/executions.tex}
+\input{subdocs/descriptions/descriptions.tex}
+\input{subdocs/introductions/introductions.tex}
+
+% End document
+\end{document}
